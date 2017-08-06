@@ -1,0 +1,23 @@
+From 5aa6831afe7deb9770d2d441e10ef4ff4b3d520d Mon Sep 17 00:00:00 2001
+From: "WIN-S6GLB3SILQC\\Administrator" <wjswf@sina.com>
+Date: Sun, 6 Aug 2017 18:46:15 +0800
+Subject: [PATCH] test+test2
+
+---
+ test.java => testFolder/test.java   | 0
+ test2.java => testFolder/test2.java | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename test.java => testFolder/test.java (100%)
+ rename test2.java => testFolder/test2.java (100%)
+
+diff --git a/test.java b/testFolder/test.java
+similarity index 100%
+rename from test.java
+rename to testFolder/test.java
+diff --git a/test2.java b/testFolder/test2.java
+similarity index 100%
+rename from test2.java
+rename to testFolder/test2.java
+-- 
+2.12.2.windows.2
+
